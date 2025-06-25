@@ -2,4 +2,4 @@
 
 cd data
 
-./download_drinking_fountains.sh
+sh ./download_drinking_fountains.sh
